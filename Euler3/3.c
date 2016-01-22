@@ -2,6 +2,7 @@
 
 int main() {
 	long n = 600851475143L;
+	long addline = 1;
 	long a, max = 0;
 
 	for (a = 2; a * a <= n; a++)
